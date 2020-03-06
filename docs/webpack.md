@@ -227,3 +227,14 @@ You should see webpack launching your application inside the browser.
 ## How to set up React, webpack, and Babel: wrapping up.
 
 **create-react-app** is the way to go for starting off a new React project. Almost everything is configured out of the box. But sooner or later you may want to extend or tweak webpack a bit.
+
+
+## Some plugins for webpack
+
+* **HtmlWebpackPlugin.** Easily create HTML files to serve your bundles.
+* **I18nWebpackPlugin.** Add i18n support to your bundles.
+* **ProgressPlugin.** Report compilation progress.
+
+***For more information visit [webpack] offical site.***
+
+[webpack]: <https://webpack.js.org/>
